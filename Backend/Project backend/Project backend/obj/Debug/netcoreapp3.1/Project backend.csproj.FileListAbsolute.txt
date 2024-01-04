@@ -1,0 +1,43 @@
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Project backend.exe
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Project backend.deps.json
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Project backend.runtimeconfig.json
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Project backend.runtimeconfig.dev.json
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Project backend.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Project backend.pdb
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.AssemblyInfoInputs.cache
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.AssemblyInfo.cs
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\staticwebassets\Project backend.StaticWebAssets.Manifest.cache
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.RazorTargetAssemblyInfo.cache
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.csproj.CopyComplete
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.dll
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.pdb
+C:\Users\Samuel\source\JIT .net\Backend\Project backend\Project backend\obj\Debug\netcoreapp3.1\Project backend.genruntimeconfig.cache
